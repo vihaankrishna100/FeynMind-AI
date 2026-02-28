@@ -1,0 +1,34 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv
+venv
+env
+__pycache__
+*.py[cod]
+*$py.class
+*.egg-info
+dist
+build
+
+# Frontend
+node_modules
+dist
+.dist
+.parcel-cache
+.cache
+coverage
+.DS_Store
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

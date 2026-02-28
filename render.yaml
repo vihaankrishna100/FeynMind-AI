@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: feynmind-backend
+    env: python
+    rootDir: backend
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    autoDeploy: true
+    healthCheckPath: /api/health
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        value: gpt-4o-mini
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE
+        sync: false
+      - key: SUPABASE_JWT_AUD
+        value: authenticated
+      - key: ALLOWED_ORIGINS
+        sync: false
+
+
