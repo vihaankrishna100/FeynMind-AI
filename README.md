@@ -1,13 +1,13 @@
 # FeynMind AI
 
-
+<img src="resources/logo.png" alt="Home page of FeynMind AI with the topic of machine learning written" width="53%"/>
 <img src="resources/home.png" alt="Home page of FeynMind AI with the topic of machine learning written" width="53%"/> <img src="resources/quiz.png" alt="FeynMind AI quiz resource with questions on machine learning" width="43%"/>
 
 <img src="resources/chat1.png" alt="Example of ChatGPT-4o-mini model chat with human-entered information on machine learning" width="49%"/>
 
 "If you can't explain something to a first-year student, then you really haven't understood it." - Richard Feynman
 
-FeynMind AI is a learning app created for students by a student. The Feynman Technique is a famous way to 
+FeynMind AI is a learning app created for students by a student. The Feynman Technique is a famous way to learn efficientley. It is based on the concept that you should be able to teach anything that you learn to show mastery. I created an AI-based application for student's intuitvley interact with a model performing the Feynman technique.
 
 ## What it does
 
