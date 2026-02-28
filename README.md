@@ -1,7 +1,7 @@
 # FeynMind AI
 
 
-<img src="resources/home_page.png" alt="Home page of FeynMind AI with the topic of machine learning written" width="40%"/> <img src="resources/quiz.png" alt="FeynMind AI quiz resource with questions on machine learning" width="43%"/>
+<img src="resources/home.png" alt="Home page of FeynMind AI with the topic of machine learning written" width="40%"/> <img src="resources/quiz.png" alt="FeynMind AI quiz resource with questions on machine learning" width="43%"/>
 
 <img src="resources/chat1.png" alt="Example of ChatGPT-4o-mini model chat with human-entered information on machine learning" width="49%"/>
 
